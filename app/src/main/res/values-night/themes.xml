@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.ExpenseTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Brand colors (dark variant if you want different) -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorSecondary">@color/teal_200</item>
+
+        <!-- Backgrounds -->
+        <item name="android:windowBackground">@color/dark_background</item>
+        <item name="colorSurface">@color/dark_card_background</item>
+    </style>
+</resources>

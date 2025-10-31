@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="title_expense_tracker">កម្មវិធីតាមដានចំណាយ</string>
+    <string name="label_amount">ចំនួនទឹកប្រាក់</string>
+    <string name="hint_amount_example">ឧ: 15.50</string>
+    <string name="label_category">ប្រភេទ</string>
+    <string name="label_date">កាលបរិច្ឆេទ</string>
+    <string name="hint_select_date">ជ្រើសរើសកាលបរិច្ឆេទ</string>
+    <string name="label_description">ការពិពណ៌នា</string>
+    <string name="btn_save">រក្សាទុក</string>
+    <string name="error_amount_required">សូមបញ្ចូលចំនួនទឹកប្រាក់</string>
+    <string name="saved_message">បានរក្សាទុក: $%1$s ទៅ %2$s នៅថ្ងៃទី %3$s</string>
+</resources>
